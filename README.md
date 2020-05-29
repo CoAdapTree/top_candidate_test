@@ -1,4 +1,4 @@
 #Pooja Singh
 #pooja.singh09@gmail.com
-#
-# top_candidate_test as described in U
+#CoAdapTree
+# top_candidate_test as described in Yeaman, Hodgins et al 2016, Convergent local adaptation to climate in distantly related conifers)
