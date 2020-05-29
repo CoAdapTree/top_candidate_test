@@ -6,6 +6,8 @@
 Top_candidate_test as described in Yeaman, Hodgins et al 2016, Convergent local adaptation to climate in distantly related conifers)
 
 top_candidates3_2env.R takes a gff annotation file and the output from the GEA spearmans rho analysis implemented in snp_env_association_spearmans3_parallelise.R for example:
+
+
 snp     env     spearmansrho    pvalue
 super4-15421    AHM     0.14909892997935        0.358498794832594
 super4-47333    AHM     0.410221513046743       0.00856271980030036
